@@ -1,0 +1,641 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "5e3b1bd4b97b54407b1d1f27ce60966d369c62b5.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/5e3b1bd4b97b54407b1d1f27ce60966d369c62b5.js?meteor_js_resource=true",
+      "size": 1246396,
+      "hash": "5e3b1bd4b97b54407b1d1f27ce60966d369c62b5"
+    },
+    {
+      "path": "124de237cf695ab2de516b62516faa64aff0974f.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/124de237cf695ab2de516b62516faa64aff0974f.css?meteor_css_resource=true",
+      "size": 190894,
+      "hash": "124de237cf695ab2de516b62516faa64aff0974f"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.eot",
+      "size": 165742,
+      "hash": "5e3a1a9b72af1d842682f7e0a5c305922c583e3f"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.svg",
+      "size": 444379,
+      "hash": "2958ef6f1890fda3f47468dedc70c2e1b2dd9511"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.ttf",
+      "size": 165548,
+      "hash": "dbaed61bd8235d7e12522b21ce66fb90a4f9740d"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff",
+      "size": 98024,
+      "hash": "951644ff8c02065fd58f609d142e45daaaa5370f"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff2",
+      "size": 77160,
+      "hash": "a34ffd10b2a49d55d6247e351520ffdf556e0bb1"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/FontAwesome.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/FontAwesome.otf",
+      "size": 134808,
+      "hash": "cd12480a6626f5faf89ddd7ebb00edf64059498d"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "size": 20127,
+      "hash": "30407a683746065f032a7a61ff50f24b008cc8b3"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "size": 108738,
+      "hash": "79a351a269ccbdab7745962bfd40cf86c2b9bc95"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "size": 45404,
+      "hash": "3a900bcba1505bbef235f1b497513a1bd894f434"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "size": 23424,
+      "hash": "434169edd7cbbb36bb43e25d78c7ceb26beac9b4"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "size": 18028,
+      "hash": "b3253b854b958bb4f2e4c2dae5ff45c8237dc1d6"
+    },
+    {
+      "path": "app/17247445B30C119AF749928CDBF9522C.txt",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/17247445B30C119AF749928CDBF9522C.txt",
+      "size": 54,
+      "hash": "f152378dc0d2411de09bda128558bfe719ac62ef"
+    },
+    {
+      "path": "app/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.ico",
+      "size": 502,
+      "hash": "1af2ed1a7eb352efd351fc86eb834cdda6da443a"
+    },
+    {
+      "path": "app/videos/heart.changeonelife.ru.mp4",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/videos/heart.changeonelife.ru.mp4",
+      "size": 5627624,
+      "hash": "9437e29693ab33854b847982bc59ef865ccf58d7"
+    },
+    {
+      "path": "app/fonts/GillSans/GillSans-Light.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/GillSans/GillSans-Light.woff",
+      "size": 82000,
+      "hash": "6fcf01092a4adb9e22df2530673b7ff22cfc243d"
+    },
+    {
+      "path": "app/fonts/GillSans/GillSans-SemiBold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/GillSans/GillSans-SemiBold.woff",
+      "size": 45364,
+      "hash": "fd839112c0440b2702902ebc930b08b3a08aa43f"
+    },
+    {
+      "path": "app/fonts/Intro/Intro-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Intro/Intro-Regular.woff",
+      "size": 82608,
+      "hash": "1f248196bb641584136288a79c371bd41ea9bb13"
+    },
+    {
+      "path": "app/images/backgrounds/check.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/backgrounds/check.jpg",
+      "size": 32676,
+      "hash": "302ad11a47447c5b44cbcbafe6602a825979de84"
+    },
+    {
+      "path": "app/images/backgrounds/measure-bottom.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/backgrounds/measure-bottom.png",
+      "size": 1215,
+      "hash": "92cd80e7388006e6d0cdd5fa17b309459bd69f41"
+    },
+    {
+      "path": "app/images/backgrounds/measure-top.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/backgrounds/measure-top.png",
+      "size": 1231,
+      "hash": "6430415b93f13ee9e1e04056985ffb58ba37fe87"
+    },
+    {
+      "path": "app/images/backgrounds/prepare.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/backgrounds/prepare.jpg",
+      "size": 50818,
+      "hash": "78c6c030ca59f8be7e15a6bd7883f5cba78f360c"
+    },
+    {
+      "path": "app/images/backgrounds/welcome-overlay.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/backgrounds/welcome-overlay.png",
+      "size": 7279,
+      "hash": "3364b795112b77e29e5f814839eb46cbf2c37b97"
+    },
+    {
+      "path": "app/images/backgrounds/welcome-pattern.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/backgrounds/welcome-pattern.png",
+      "size": 3771,
+      "hash": "8d869243caca0dcfb287056fc63cca57bf370892"
+    },
+    {
+      "path": "app/images/backgrounds/welcome.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/backgrounds/welcome.jpg",
+      "size": 37026,
+      "hash": "4499c5ba16f55b96ff1f680c64d7b4cab2c0f36a"
+    },
+    {
+      "path": "app/images/backgrounds/wings.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/backgrounds/wings.png",
+      "size": 2792,
+      "hash": "493b40b25332921a4a6ebb48b1a2994136238ba6"
+    },
+    {
+      "path": "app/images/childrens/01.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/childrens/01.png",
+      "size": 641228,
+      "hash": "652e98d97e86dd40c4d2ca6a50ba2021aab71a10"
+    },
+    {
+      "path": "app/images/childrens/02.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/childrens/02.png",
+      "size": 734795,
+      "hash": "13d6e834886ac240f850eecc6a353e16a09ce883"
+    },
+    {
+      "path": "app/images/childrens/03.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/childrens/03.png",
+      "size": 844789,
+      "hash": "a89cbb5f119e01b4187705860fe8d53585919145"
+    },
+    {
+      "path": "app/images/childrens/04.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/childrens/04.png",
+      "size": 795450,
+      "hash": "29bb2e72fa5e7f6f973f8af691c163f88ced0a75"
+    },
+    {
+      "path": "app/images/childrens/05.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/childrens/05.png",
+      "size": 737422,
+      "hash": "1a87d202e11d08c9a424ae4b6d703a61a51677a7"
+    },
+    {
+      "path": "app/images/childrens/06.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/childrens/06.png",
+      "size": 827094,
+      "hash": "15fd08d4477d246a3a71a13c679a112f5a8d332a"
+    },
+    {
+      "path": "app/images/childrens/07.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/childrens/07.png",
+      "size": 802781,
+      "hash": "55fed5e263ec358445e601659dfb8048ea8d4ae2"
+    },
+    {
+      "path": "app/images/childrens/08.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/childrens/08.png",
+      "size": 1079618,
+      "hash": "da5f0057498d593566d5b9ab53e7d451b3c1e8e6"
+    },
+    {
+      "path": "app/images/childrens/09.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/childrens/09.png",
+      "size": 745081,
+      "hash": "bfd6ffecc23baa78e1256a475cdd134912023633"
+    },
+    {
+      "path": "app/images/childrens/10.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/childrens/10.png",
+      "size": 748831,
+      "hash": "e28fc5966135beee10a57ab97cb90bff3dbca04c"
+    },
+    {
+      "path": "app/images/icons/change-one-life-logo.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/change-one-life-logo.svg",
+      "size": 12633,
+      "hash": "cf0fe09698e4f8aa07862fedf8daeb98af76f016"
+    },
+    {
+      "path": "app/images/icons/heart-animation.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/heart-animation.gif",
+      "size": 7017,
+      "hash": "8984027bac4e533cbac68395fb32a360ee7012e2"
+    },
+    {
+      "path": "app/images/icons/icon-arrow.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-arrow.svg",
+      "size": 338,
+      "hash": "71d15d32efdb78a1241f949dd5800763aeef8166"
+    },
+    {
+      "path": "app/images/icons/icon-camera.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-camera.svg",
+      "size": 1698,
+      "hash": "cec508225dc767dd16fa812753dac485165d1d9f"
+    },
+    {
+      "path": "app/images/icons/icon-check-1.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-check-1.svg",
+      "size": 3643,
+      "hash": "a9bbbb3d5186da38779872857b0995f711f402ea"
+    },
+    {
+      "path": "app/images/icons/icon-check-2.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-check-2.svg",
+      "size": 1025,
+      "hash": "e427e855ebdec2d53735734f79e1fdb73d1cbe5a"
+    },
+    {
+      "path": "app/images/icons/icon-check-3.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-check-3.svg",
+      "size": 2431,
+      "hash": "d8e24a097041792d397afb549bae8c6f7f4b6c85"
+    },
+    {
+      "path": "app/images/icons/icon-heart-32.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-heart-32.svg",
+      "size": 1330,
+      "hash": "92b4e3a20d1c96eff3a66c58fad330e39268a332"
+    },
+    {
+      "path": "app/images/icons/icon-heart-61.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-heart-61.svg",
+      "size": 1403,
+      "hash": "afb6cfe2b34dd5222763f26be06cf76fd3c3ecd6"
+    },
+    {
+      "path": "app/images/icons/icon-heart-93.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-heart-93.svg",
+      "size": 1426,
+      "hash": "32258e77a2cb71968d5c0648590c4bac9ac13962"
+    },
+    {
+      "path": "app/images/icons/icon-heart-empty.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-heart-empty.svg",
+      "size": 1330,
+      "hash": "92b4e3a20d1c96eff3a66c58fad330e39268a332"
+    },
+    {
+      "path": "app/images/icons/icon-mac.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-mac.svg",
+      "size": 734,
+      "hash": "45a5671f38084f2744737091cc0fc63159a38f51"
+    },
+    {
+      "path": "app/images/icons/icon-result.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-result.svg",
+      "size": 2803,
+      "hash": "2a3268be50a13e2eb554968d4c2806c7115dd082"
+    },
+    {
+      "path": "app/images/icons/logo-heart.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/logo-heart.svg",
+      "size": 1405,
+      "hash": "84bb8c64d4a2e3733645f314703b863e2fdd26d1"
+    },
+    {
+      "path": "app/images/popups/guardian-result.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/popups/guardian-result.png",
+      "size": 2536,
+      "hash": "dfbbdec8bb89bf9ae7f58853d2bcaacd2b5aadc8"
+    },
+    {
+      "path": "app/images/popups/guardian.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/popups/guardian.png",
+      "size": 2434,
+      "hash": "81b6f086605e285f5b24b074fd97b523ffc07357"
+    },
+    {
+      "path": "app/images/pulse/pulse_3_middle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/pulse/pulse_3_middle.svg",
+      "size": 1288,
+      "hash": "363dcb862bede0f7f7b100a7748ae41589ffb478"
+    },
+    {
+      "path": "app/images/pulse/pulse_4_middle.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/pulse/pulse_4_middle.svg",
+      "size": 1327,
+      "hash": "6abc4cb18df1042bb9feb39240159f6d70ee41a6"
+    },
+    {
+      "path": "app/images/pulse/pulse_b.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/pulse/pulse_b.svg",
+      "size": 4105,
+      "hash": "41f4f0fde1dd2abcee5a2ae48f0944e418c546da"
+    },
+    {
+      "path": "app/images/pulse/pulse_sm.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/pulse/pulse_sm.svg",
+      "size": 4538,
+      "hash": "2c91adaa0e75f5209f7d14c5c850aa02f5e31693"
+    },
+    {
+      "path": "app/images/pulse/pulse_st.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/pulse/pulse_st.svg",
+      "size": 4543,
+      "hash": "986ce1bfbe4e8e19abb2a54ec8018eef61074b49"
+    },
+    {
+      "path": "app/images/sharing/sharing.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sharing/sharing.jpg",
+      "size": 185673,
+      "hash": "63909eaeb8170228d6732bc2701f166993ea463a"
+    },
+    {
+      "path": "app/images/sprites/animated-angel-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sprites/animated-angel-icon.png",
+      "size": 11109,
+      "hash": "2529b2c634bbb5bd986917c9cea4fa2d53f33db1"
+    },
+    {
+      "path": "app/images/sprites/animated-heart-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sprites/animated-heart-icon.png",
+      "size": 51538,
+      "hash": "b89fceb70f108aa57221ea86a74fd5d1456af5b4"
+    },
+    {
+      "path": "app/images/sprites/animated-pc-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sprites/animated-pc-icon.png",
+      "size": 19289,
+      "hash": "bebf2eb79c390c6a9d4893521f25208750bba33a"
+    },
+    {
+      "path": "app/images/sprites/question-icon.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/sprites/question-icon.svg",
+      "size": 1243,
+      "hash": "0ad1048317865aa08704d866d5a067edec54fec0"
+    },
+    {
+      "path": "app/images/svg/angel.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/angel.svg",
+      "size": 1861,
+      "hash": "3222be87d1338126a2fd509f33f91bed986a6803"
+    },
+    {
+      "path": "app/images/svg/big-logo.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/big-logo.svg",
+      "size": 4293,
+      "hash": "d3181e1914de13284949d97f24f21b3c8dda89f0"
+    },
+    {
+      "path": "app/images/svg/chevron-down.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/chevron-down.svg",
+      "size": 318,
+      "hash": "ef81feb8ce58b90e510247df72a50d38979a307f"
+    },
+    {
+      "path": "app/images/svg/computer.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/computer.svg",
+      "size": 2995,
+      "hash": "0f308103309309aa37d1f8f8c3c3d353b89a31c7"
+    },
+    {
+      "path": "app/images/svg/question-icon.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/svg/question-icon.svg",
+      "size": 812,
+      "hash": "dabb09b4c4d85b6e63b4c1afa037c86069c3baf4"
+    },
+    {
+      "path": "app/videos/bg/childrens-bg.mp4",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/videos/bg/childrens-bg.mp4",
+      "size": 3100473,
+      "hash": "fe6f84488462efe6d1bbfaec6ddec9d372025b70"
+    },
+    {
+      "path": "app/videos/old/heart.changeonelife.ru.mp4",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/videos/old/heart.changeonelife.ru.mp4",
+      "size": 4309338,
+      "hash": "e4afc58a76308b807a75868ee68161a6b46a1700"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "954a83d0b5c83d742cbb84a5747740734190ff20"
+    }
+  ]
+}

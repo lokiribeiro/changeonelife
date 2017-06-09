@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="753px" height="143px" viewBox="0 0 753 143" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.143729613   0 0 0 0 0.00459696892   0 0 0 0 0.155133929  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" filter="url(#filter-1)" transform="translate(0.000000, -4.000000)">
+            <text id="ПРОЕКТ" font-family="GillSans, Gill Sans" font-size="18.6900005" font-weight="normal" fill="#FFFFFF">
+                <tspan x="342" y="17">ПРОЕКТ</tspan>
+            </text>
+            <text id="СЕРДЦЕ-ПОДСКАЖЕТ" font-family="GillSans-Light, Gill Sans" font-size="74.8399963" font-weight="300" fill="#FFFFFF">
+                <tspan x="5" y="88">СЕРДЦЕ ПОДСКАЖЕТ</tspan>
+            </text>
+            <path d="M0.5,11.5 L323.5,11.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+            <path d="M425.5,11.5 L752.5,11.5" id="Line-Copy-3" stroke="#FFFFFF" stroke-linecap="square"></path>
+            <path d="M0.5,113.5 L335.5,113.5" id="Line-Copy" stroke="#FFFFFF" stroke-linecap="square"></path>
+            <path d="M417.5,113.5 L752.5,113.5" id="Line-Copy-2" stroke="#FFFFFF" stroke-linecap="square"></path>
+            <g id="Page-1" transform="translate(352.000000, 105.000000)" fill="#FEFEFE">
+                <polygon id="Fill-1" points="27.9551187 20.4522642 27.9313798 19.5669979 49.3252967 18.9987626 49.3490356 19.8840289"></polygon>
+                <polygon id="Fill-2" points="6.40040059 16.4388404 5.51642433 16.3343442 7.40173591 0.556737754 8.28571217 0.661234011"></polygon>
+                <polygon id="Fill-3" points="24.7564243 8.92431979 27.9544955 19.873107 12.6435163 29.2089914 12.6435163 28.8403027"></polygon>
+                <polygon id="Fill-4" points="11.974184 29.2090652 12.8643917 29.2090652 12.8643917 13.6832535 11.974184 13.6832535"></polygon>
+                <polygon id="Fill-5" points="27.5152226 20.1313514 24.3284273 9.04604021 25.184362 8.8026584 28.3713056 19.8879696"></polygon>
+                <polygon id="Fill-6" points="12.8737389 29.5879232 12.4132047 28.8300302 27.7130564 19.6306697 28.1734421 20.3885628"></polygon>
+                <path d="M41.2775519,1.47593583e-05 L24.7527745,8.4286415 L7.61909496,0.000162352941 L-4.45103858e-05,18.8326607 L24.7535163,40.488034 L49.8787389,19.567972 L41.2775519,1.47593583e-05 Z M1.06123145,18.5817517 L8.08630564,1.21766182 L24.7600445,9.42002759 L40.8410534,1.21780941 L48.7958012,19.314849 L24.7676113,39.3211591 L1.06123145,18.5817517 Z" id="Fill-7"></path>
+                <polygon id="Fill-8" points="25.2001632 39.974246 24.3209347 39.8350652 27.5035757 19.9400406 28.3828042 20.0792214"></polygon>
+                <polygon id="Fill-9" points="35.9991543 30.5396509 27.5982641 20.2894242 28.2881751 19.7298969 36.6890653 29.9801236"></polygon>
+                <polygon id="Fill-10" points="38.8248071 14.7451893 37.9504748 14.5778182 40.6221365 0.763206417 41.4964688 0.93057754"></polygon>
+                <polygon id="Fill-11" points="49.1613056 19.8481194 24.5804451 9.33104342 24.9322255 8.51750759 49.5130861 19.0345835"></polygon>
+                <polygon id="Fill-12" points="0.698011869 19.1175754 0.363145401 18.2969551 24.5889614 8.51400963 24.9236795 9.33462995"></polygon>
+                <polygon id="Fill-13" points="12.8000742 29.4381748 12.0383531 28.9798967 24.3755935 8.69507743 25.1371662 9.1535031"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
